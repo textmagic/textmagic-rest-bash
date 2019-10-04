@@ -18,9 +18,9 @@ The Shell wrapper for the TextMagic API has the following requirement:
 
 ## Send SMS via Shell (an example)
 Run this in your command prompt or execute in script:
-
-`tm.sh send --text="Hello from TextMagic" --phones=447860021130`
-
+```bash
+tm.sh send --text="Hello from TextMagic" --phones=447860021130
+```
 [comment]: <> (FOOTER)
 ## License
 The library is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
